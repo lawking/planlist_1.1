@@ -5,6 +5,6 @@
 
 运行截图如下
 
-![github](https://github.com/lawking/planlist/raw/master/one.png “github”)
+![github](https://github.com/lawking/planlist/master/one.png “github”)
 ![github](https://github.com/lawking/planlist/raw/master/two.png “github”)
 ![github](https://github.com/lawking/planlist/raw/master/three.png “github”)
