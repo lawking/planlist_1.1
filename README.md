@@ -5,6 +5,6 @@
 
 运行截图如下
 
-[截图1](https://github.com/lawking/planlist/blob/master/two.png “github”)
-[截图2](https://github.com/lawking/planlist/blob/master/two.png “github”)
-[截图3](https://github.com/lawking/planlist/blob/master/three.png “github”)
+[截图1](https://github.com/lawking/planlist/blob/master/two.png)
+[截图2](https://github.com/lawking/planlist/blob/master/two.png)
+[截图3](https://github.com/lawking/planlist/blob/master/three.png)
