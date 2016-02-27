@@ -5,7 +5,7 @@
 2.28日更新
 planlist_1.1
 优化ui，使用toolbar，规范变量等命名
-[下载地址](https://github.com/lawking/planlist_1.1/raw/master/app/app-release.apk)
+[下载地址](https://github.com/lawking/planlist_1.1/raw/master/planlist_1.1.apk)
 
 运行截图如下
 
